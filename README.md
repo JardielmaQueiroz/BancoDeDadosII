@@ -23,7 +23,7 @@ Temos por objetivo também:
 **Fonte:**  [Dados Abertos Cota Parlamentar](http://www2.camara.leg.br/transparencia/cota-para-exercicio-da-atividade-parlamentar/dados-abertos-cota-parlamentar) 
 </p>
 
-Temos essa quantidade de registro por base de dados:
+Quantidade de registro por base de dados:
 
 - 2016 - 383.061
 - 2017 - 367.602
