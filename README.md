@@ -1,4 +1,4 @@
-# _TRABALHO 01: Análise sobre os gastos dos parlamentares na câmara dos deputados_
+# _TRABALHO 01: Análise sobre os gastos dos parlamentares_
 
 <P align="justify">&nbsp&nbsp Trabalho desenvolvido para a disciplina de Bando de Dados II do curso Bacharelado em Sistemas de Informação (IFES - Campus Serra) no semestre 2019/1. </p>
 
