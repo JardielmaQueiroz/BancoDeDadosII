@@ -1,4 +1,4 @@
-# _TRABALHO 01: Análise sobre os gastos 
+# TRABALHO 01: _Análise sobre os gastos_ 
 parlamentares_
 
 <P align="justify">&nbsp&nbsp Trabalho desenvolvido para a disciplina de Bando de Dados II do curso Bacharelado em Sistemas de Informação (IFES - Campus Serra) no semestre 2019/1. </p>
