@@ -32,3 +32,4 @@ Quantidade de registro por base de dados:
 
 ### 4. FAST IMENSION CANVAS <br>
 ### 5. FAST MODELLING CANVAS <br>
+### 6. MAPA DE ETL + FLUXO DOS DADOS/ STEPS NO PENTAHO<br> 
