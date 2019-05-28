@@ -1,11 +1,10 @@
-# TRABALHO 01: _Análise sobre os gastos_ 
-parlamentares_
+# TRABALHO 01: _Análise sobre os gastos parlamentares_
 
 <P align="justify">&nbsp&nbsp Trabalho desenvolvido para a disciplina de Bando de Dados II do curso Bacharelado em Sistemas de Informação (IFES - Campus Serra) no semestre 2019/1. </p>
 
 ### 1. COMPONENTES<br>
 -  Jardielma Queiroz de Lima:<a href="url"> jardielmaqueiroz@hotmail.com </a>
-### 2. JUSTIFICATIVA DO SISTEMA<br>
+### 2. OBJETIVO<br>
 <P align="justify">&nbsp&nbsp O trabalho tem como propósito principal construir uma base de dados com informações referentes os gastos parlamentares nos anos de 2016 à 2018. Com o intuito de gerar informações capaz de prever o comportamento dos parlamentares.</p>
 
 Temos por objetivo também:
@@ -27,8 +26,15 @@ Quantidade de registro por base de dados:
 - ano-2016.csv - 383.061 registros
 - ano-2017.csv - 367.602 registros
 - ano-2018.csv - 281.024 registros
-- obterPartidos.xml - registros
+
 **Total:** 1.031.687
+
+Outros arquivos:
+
+- obterPartidos.xml - registros
+- estados.csv
+- Partidos.csv
+
 
 ### 4. FAST IMENSION CANVAS <br>
 ### 5. FAST MODELLING CANVAS <br>
